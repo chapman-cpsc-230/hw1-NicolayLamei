@@ -1,4 +1,5 @@
 #Can a baby live to 1 billion seconds?
+# I am using Python 3
 seconds = 1000000000
 minutes = seconds / 60
 hours = minutes / 60

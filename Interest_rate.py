@@ -1,4 +1,5 @@
 # Figure out how much money with an interest rate of 5% using 1000 euros in 3 years
+# I am using Python 3
 n = 3
 p = .05
 a = 1000
